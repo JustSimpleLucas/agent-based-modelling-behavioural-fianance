@@ -94,6 +94,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSgrvyaVrMiq4xXwk9L-29" target="tXSgrvyaVrMiq4xXwk9L-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="490" />
+              <mxPoint x="710" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXSgrvyaVrMiq4xXwk9L-29" target="tXSgrvyaVrMiq4xXwk9L-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-29" value="Market Mechanism&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -104,6 +112,9 @@
         </mxCell>
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-32" value="Setup crisis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-35" value="Public information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
