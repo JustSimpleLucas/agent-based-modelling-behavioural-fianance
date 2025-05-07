@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.3.0">
   <diagram name="Page-1" id="KlvJ_ZtWi_6_skd0xNUw">
-    <mxGraphModel dx="1143" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-49" value="Prospect&lt;div&gt;Theory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-50" value="Herd&amp;nbsp;&lt;div&gt;Behavioural&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="535" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-51" value="Private&amp;nbsp;&lt;div&gt;Information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-52" value="Agent" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-53" value="Behavioural Rules" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="350" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
