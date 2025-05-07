@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.3.0">
   <diagram name="Page-1" id="KlvJ_ZtWi_6_skd0xNUw">
-    <mxGraphModel dx="1273" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,14 +171,14 @@
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="tXSgrvyaVrMiq4xXwk9L-149" target="tXSgrvyaVrMiq4xXwk9L-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328" y="830" />
-              <mxPoint x="230" y="830" />
+              <mxPoint x="328" y="850" />
+              <mxPoint x="230" y="850" />
               <mxPoint x="230" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXSgrvyaVrMiq4xXwk9L-149" value="&lt;b&gt;Random Fundamental Value of Stocks&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="760" width="150" height="50" as="geometry" />
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-149" value="&lt;b&gt;Random Fundamental Value of Stocks&lt;/b&gt;&lt;div&gt;&lt;b&gt;(random walk with normal distribution)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="760" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
