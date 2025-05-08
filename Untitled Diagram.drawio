@@ -197,6 +197,9 @@
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-156" value="&lt;b&gt;Rare&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Events&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="640" width="70" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-160" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
