@@ -163,7 +163,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXSgrvyaVrMiq4xXwk9L-149" value="&lt;b&gt;Fundamental Value of Asset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tXSgrvyaVrMiq4xXwk9L-149" value="&lt;b&gt;Expected Fundamental Value of Asset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="255" y="810" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tXSgrvyaVrMiq4xXwk9L-155" value="" style="group" parent="1" vertex="1" connectable="0">
